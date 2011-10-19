@@ -1,0 +1,6 @@
+*.o
+boot/installer
+boot/boot
+*.img
+*.bin
+

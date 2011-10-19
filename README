@@ -1,0 +1,9 @@
+TuriOS pretends to be a very simple OS
+
+Right now it only has bootloader which can be installed on a floppy or a floppy
+image. The floppy should be formatted with FAT12, it doesn't matter if it
+supports VFAT or not.
+
+This project is for educational purposes.
+
+For now just run "make" in the boot directory to get the prepared disk image.
